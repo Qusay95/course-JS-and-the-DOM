@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> My Profile </title>
+        <meta charset="utf-8">
+        <meta name="description" content="I'm wrote this site"/>
+        الوصف الذي سيظهر أسفل نتيجة البحث على المتصفح
+        <style>
+        تستخدم في حال الرغبة في كتابة أكواد الـ CSS هنا مباشرة دون تجهيز ملف CSS خاص
+        </style>
+        <link rel="styleSheet" href="style.css - اسم ملف CSS"/>
+    </head>
+    <body align="center" dir="rtl">
+       <h1>The text title</h1>
+       <p>هندسة البيانات Data Engineering</p>
+       <p><u>Data Engineering</u> is <b>the foundation</b> for the <del>new world</del> of <strong>Data</strong>.</p>
+       <p><i>Data Engineering</i> is the foundation for the <em>new world</em> of Data.</p>
+       <p><sup>Data</sup> <sub>Engineering</sub> is the <mark>foundation</mark>  for the new world of Data.</p>
+       <p> <font color="red" size="4" face="arial">Data Engineering</font> is the foundation for the new world of Data.</p>
+       <table border="1" align="center">
+        <tr><th colspan="2">الاسم</th></tr>
+        <tr><td>ساري</td><td rowspan="3">99</td></tr>
+        <tr><td>محمد</td></tr>
+        <tr><td>قصي</td></tr>
+       </table>
+       <table border="1.2">
+        <thead bgcolor="green"><tr><th colspan="3">عملاء البنك</th></tr></thead>
+        <tbody>
+            <tr><td>ID</td><td>اسم العميل</td><td>الرصيد</td></tr>
+            <tr><td>1</td><td>ساري</td><td>100</td></tr>
+            <tr><td>2</td><td>محمد</td><td>200</td></tr>
+            <tr><td>3</td><td>قصي</td><td>200</td></tr>
+            <tr><td>4</td><td>مهند</td><td>100</td></tr>
+            <tr><td>5</td><td>نور</td><td>200</td></tr>
+            <tr><td>6</td><td>فراس</td><td>100</td></tr>
+        </tbody>
+        <tfoot bgcolor="gray"><tr><td colspan="3">نشكر لحضراتكم تعاملكم معنا</td></tr></tfoot>
+       </table>
+       <a href="https://ar-ar.facebook.com/" target="_blank"> فيس بوك </a> <br>
+       <img src="https://media-cdn.tripadvisor.com/media/photo-s/1b/55/17/17/caption.jpg" alt="صورة قطر العروبة"><br>
+       <img src="https://neswan.cc/wp-content/uploads/2018/08/4656.gif" alt="متحركة">
+    </body>
+    </html>
